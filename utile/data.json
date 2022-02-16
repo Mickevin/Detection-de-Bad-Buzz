@@ -1,0 +1,474 @@
+{
+  "visualizationType": "default",
+  "data": {
+    "name": null,
+    "numberOfColumns": 1,
+    "numberOfRows": 1600,
+    "features": [
+      {
+        "name": "predicted_label",
+        "index": 0,
+        "elementType": "int64",
+        "featureType": "Numeric Feature"
+      }
+    ],
+    "records": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ]
+  },
+  "statistics": {
+    "name": null,
+    "numberOfColumns": 7,
+    "numberOfRows": 1,
+    "features": [
+      {
+        "name": "Mean",
+        "index": 0,
+        "elementType": "float64",
+        "featureType": "Numeric Feature"
+      },
+      {
+        "name": "Median",
+        "index": 1,
+        "elementType": "float64",
+        "featureType": "Numeric Feature"
+      },
+      {
+        "name": "Min",
+        "index": 2,
+        "elementType": "float64",
+        "featureType": "Numeric Feature"
+      },
+      {
+        "name": "Max",
+        "index": 3,
+        "elementType": "float64",
+        "featureType": "Numeric Feature"
+      },
+      {
+        "name": "Standard Deviation",
+        "index": 4,
+        "elementType": "float64",
+        "featureType": "Numeric Feature"
+      },
+      {
+        "name": "Unique Values",
+        "index": 5,
+        "elementType": "float64",
+        "featureType": "Numeric Feature"
+      },
+      {
+        "name": "Missing Values",
+        "index": 6,
+        "elementType": "float64",
+        "featureType": "Numeric Feature"
+      }
+    ],
+    "records": [
+      [
+        0.40625,
+        0.0,
+        0.0,
+        1.0,
+        0.491285852246822,
+        2,
+        0
+      ]
+    ]
+  },
+  "layout": {
+    "name": null,
+    "numberOfColumns": 2,
+    "numberOfRows": 1,
+    "features": [
+      {
+        "name": "Histogram",
+        "index": 0,
+        "elementType": "object",
+        "featureType": "Object Feature"
+      },
+      {
+        "name": "Boxplot",
+        "index": 1,
+        "elementType": "object",
+        "featureType": "Object Feature"
+      }
+    ],
+    "records": [
+      [
+        {
+          "Bins": [
+            {
+              "x": 0.0,
+              "dx": 0.1,
+              "y": 950,
+              "numElements": 0
+            },
+            {
+              "x": 0.1,
+              "dx": 0.1,
+              "y": 0,
+              "numElements": 0
+            },
+            {
+              "x": 0.2,
+              "dx": 0.10000000000000003,
+              "y": 0,
+              "numElements": 0
+            },
+            {
+              "x": 0.30000000000000004,
+              "dx": 0.09999999999999998,
+              "y": 0,
+              "numElements": 0
+            },
+            {
+              "x": 0.4,
+              "dx": 0.09999999999999998,
+              "y": 0,
+              "numElements": 0
+            },
+            {
+              "x": 0.5,
+              "dx": 0.10000000000000009,
+              "y": 0,
+              "numElements": 0
+            },
+            {
+              "x": 0.6000000000000001,
+              "dx": 0.09999999999999998,
+              "y": 0,
+              "numElements": 0
+            },
+            {
+              "x": 0.7000000000000001,
+              "dx": 0.09999999999999998,
+              "y": 0,
+              "numElements": 0
+            },
+            {
+              "x": 0.8,
+              "dx": 0.09999999999999998,
+              "y": 0,
+              "numElements": 0
+            },
+            {
+              "x": 0.9,
+              "dx": 0.09999999999999998,
+              "y": 650,
+              "numElements": 0
+            }
+          ],
+          "NumberOfRecords": 1600
+        },
+        {
+          "median": 0.0,
+          "boxBottom": 0.0,
+          "boxTop": 1.0,
+          "whiskerBottom": 0,
+          "whiskerTop": 1,
+          "outliers": []
+        }
+      ]
+    ]
+  }
+}

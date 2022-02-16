@@ -1,0 +1,11 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.6.2
+- pip:
+  - azureml-defaults
+  - azureml-core
+  - tensorflow
+  - joblib
+  - scikit-learn
+  - numpy
